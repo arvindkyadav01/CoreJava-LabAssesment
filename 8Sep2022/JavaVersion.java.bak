@@ -1,0 +1,20 @@
+/*
+Program@ java version
+Auther@Arvind yadav
+date@07 sep
+*/
+
+//declearing class 
+
+class JavaVersion
+{
+
+     public static final void main (String args[])
+
+  {
+       System.out.println("Java version is : " + System.getProperty("java.version"));
+  } 
+  //end main method
+}
+
+//end class
